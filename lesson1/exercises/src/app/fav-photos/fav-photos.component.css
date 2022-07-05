@@ -1,9 +1,13 @@
 h3 {
+   
    color: brown;
 }
 
 img {
-
+  
+   width: 100px;
+   height: 100px;
+   object-fit: cover;
 }
 
 .photos {
